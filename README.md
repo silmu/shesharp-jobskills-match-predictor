@@ -9,7 +9,7 @@ It contains 500 job posts for May 2023.
 The model created is very weak, as the dataset is too small.
 Nevertheless, it conveys the general idea. With a bigger dataset it can be improved significantly.
 
-## Idea
+## ✨ Idea ✨
 
 Firstly, historical data analysis is provided below that shows top 20 leaders by frequency in each category.
 For example, we can see that engineering is the leading department in provided dataset, Bangalore is the leading city, software engineer is the top looked after profession, a bit more jobs are offered in non-remote that in remote positions.
