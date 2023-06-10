@@ -1,0 +1,9 @@
+.idea
+
+# SourceStack data
+*.csv
+*.json
+
+# Test plot
+test_bar_plot.png
+.DS_Store
