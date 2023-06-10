@@ -1,4 +1,4 @@
-# Job skills match predictor
+# Job skills match predictor 👩‍⚕️👩‍⚕️💼📊
 
 This project is made for SheSharp Hackathon 2023.
 It provides a data analysis of the dataset provided by the organizers.
